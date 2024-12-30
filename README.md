@@ -1,6 +1,6 @@
 💻 Asp.Net Core Api 8.0 Onion Architecture ile CarBook Projesi
 ---------------------------------------------------------------
-Murat YÜCEDAĞ hocamızın Udemy platformunda sunduğu 313 Ders 38.5 saatlik Asp.Net Core Api 8.0 Onion Architecture ile CarBook Projesi eğitimi kapsamında geliştirmiş olduğum proje 
+MURAT YÜCEDAĞ hocamızın Udemy platformunda sunduğu 313 Ders 38.5 saatlik Asp.Net Core Api 8.0 Onion Architecture ile CarBook Projesi eğitimi kapsamında geliştirmiş olduğum proje 
 CQRS , Mediator Design Patterns , Repository Pattern ve Onion Architecture gibi geniş konuları kapsıyor. Birçok yeni bilgi öğrenip uygulamamı sağladı.
 ------------------------------------------------------------------------------------------------
 ![Kayıt Sayfası](https://github.com/user-attachments/assets/a9cac56c-6e4a-41fe-8f5c-40f228a28be4)
